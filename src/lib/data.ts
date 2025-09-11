@@ -3,7 +3,7 @@ export const personalInfo = {
   location: "Buenos Aires, Argentina",
   email: "ignamanuel2@gmail.com",
   github: "https://github.com/kikii10",
-  linkedin: "www.linkedin.com/in/ignacio-szymborski-ab24aa23b",
+  linkedin: "https://www.linkedin.com/in/ignacio-szymborski-ab24aa23b",
 };
 
 export const workExperience = [
