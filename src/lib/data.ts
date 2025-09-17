@@ -8,9 +8,9 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "Desarrolador freelance",
+    company: "Desarrollador freelance",
     location: "Remote",
-    position: "Desarrolador Full Stack",
+    position: "Desarrollador Full Stack",
     period: "Mar 2022 - Present",
     achievements: [
   "Desarrollo de aplicaciones web utilizando Java, React, HTML/CSS y SQL",
